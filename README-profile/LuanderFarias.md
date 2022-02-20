@@ -1,14 +1,12 @@
 <img src="Logo.png" align="left" width="200px"/>
 Name: Luander De Faria
 <br>
-OS: Zorin OS
+OS: Windows 11
 <br>
-Location: seu-pais
+Location: Brazil🇧🇷
 <br>
-Hobbies: seus-hobbies
+Hobbies: Play guitar and Video Games
 <br>
-Projetos: seus-projetos
+Linguagem-Favorita: Python
 <br>
-Linguagem-Favorita: sua-liguagem-favorita :)
-<br>
-Aprendendo: Linguagens-que-voce-esta-aprendendo
+Aprendendo: Java
